@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b751b0154f57d77428580fe1c21fc5cc
+timeCreated: 1478255063
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - plaatje1: {fileID: 2800000, guid: e0905aa72972ba848b25f8d864a69604, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
